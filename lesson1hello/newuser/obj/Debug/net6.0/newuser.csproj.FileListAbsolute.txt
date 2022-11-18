@@ -1,0 +1,15 @@
+C:\Users\V. Bulatova\Desktop\Lesson1\lesson1hello\newuser\obj\Debug\net6.0\newuser.csproj.AssemblyReference.cache
+C:\Users\V. Bulatova\Desktop\Lesson1\lesson1hello\newuser\obj\Debug\net6.0\newuser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\V. Bulatova\Desktop\Lesson1\lesson1hello\newuser\obj\Debug\net6.0\newuser.AssemblyInfoInputs.cache
+C:\Users\V. Bulatova\Desktop\Lesson1\lesson1hello\newuser\obj\Debug\net6.0\newuser.AssemblyInfo.cs
+C:\Users\V. Bulatova\Desktop\Lesson1\lesson1hello\newuser\obj\Debug\net6.0\newuser.csproj.CoreCompileInputs.cache
+C:\Users\V. Bulatova\Desktop\Lesson1\lesson1hello\newuser\bin\Debug\net6.0\newuser.exe
+C:\Users\V. Bulatova\Desktop\Lesson1\lesson1hello\newuser\bin\Debug\net6.0\newuser.deps.json
+C:\Users\V. Bulatova\Desktop\Lesson1\lesson1hello\newuser\bin\Debug\net6.0\newuser.runtimeconfig.json
+C:\Users\V. Bulatova\Desktop\Lesson1\lesson1hello\newuser\bin\Debug\net6.0\newuser.dll
+C:\Users\V. Bulatova\Desktop\Lesson1\lesson1hello\newuser\bin\Debug\net6.0\newuser.pdb
+C:\Users\V. Bulatova\Desktop\Lesson1\lesson1hello\newuser\obj\Debug\net6.0\newuser.dll
+C:\Users\V. Bulatova\Desktop\Lesson1\lesson1hello\newuser\obj\Debug\net6.0\refint\newuser.dll
+C:\Users\V. Bulatova\Desktop\Lesson1\lesson1hello\newuser\obj\Debug\net6.0\newuser.pdb
+C:\Users\V. Bulatova\Desktop\Lesson1\lesson1hello\newuser\obj\Debug\net6.0\newuser.genruntimeconfig.cache
+C:\Users\V. Bulatova\Desktop\Lesson1\lesson1hello\newuser\obj\Debug\net6.0\ref\newuser.dll

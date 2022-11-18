@@ -1,0 +1,15 @@
+C:\Users\V. Bulatova\Desktop\Lesson1\lesson1hello\exsams3\bin\Debug\net6.0\exsams3.exe
+C:\Users\V. Bulatova\Desktop\Lesson1\lesson1hello\exsams3\bin\Debug\net6.0\exsams3.deps.json
+C:\Users\V. Bulatova\Desktop\Lesson1\lesson1hello\exsams3\bin\Debug\net6.0\exsams3.runtimeconfig.json
+C:\Users\V. Bulatova\Desktop\Lesson1\lesson1hello\exsams3\bin\Debug\net6.0\exsams3.dll
+C:\Users\V. Bulatova\Desktop\Lesson1\lesson1hello\exsams3\bin\Debug\net6.0\exsams3.pdb
+C:\Users\V. Bulatova\Desktop\Lesson1\lesson1hello\exsams3\obj\Debug\net6.0\exsams3.csproj.AssemblyReference.cache
+C:\Users\V. Bulatova\Desktop\Lesson1\lesson1hello\exsams3\obj\Debug\net6.0\exsams3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\V. Bulatova\Desktop\Lesson1\lesson1hello\exsams3\obj\Debug\net6.0\exsams3.AssemblyInfoInputs.cache
+C:\Users\V. Bulatova\Desktop\Lesson1\lesson1hello\exsams3\obj\Debug\net6.0\exsams3.AssemblyInfo.cs
+C:\Users\V. Bulatova\Desktop\Lesson1\lesson1hello\exsams3\obj\Debug\net6.0\exsams3.csproj.CoreCompileInputs.cache
+C:\Users\V. Bulatova\Desktop\Lesson1\lesson1hello\exsams3\obj\Debug\net6.0\exsams3.dll
+C:\Users\V. Bulatova\Desktop\Lesson1\lesson1hello\exsams3\obj\Debug\net6.0\refint\exsams3.dll
+C:\Users\V. Bulatova\Desktop\Lesson1\lesson1hello\exsams3\obj\Debug\net6.0\exsams3.pdb
+C:\Users\V. Bulatova\Desktop\Lesson1\lesson1hello\exsams3\obj\Debug\net6.0\exsams3.genruntimeconfig.cache
+C:\Users\V. Bulatova\Desktop\Lesson1\lesson1hello\exsams3\obj\Debug\net6.0\ref\exsams3.dll

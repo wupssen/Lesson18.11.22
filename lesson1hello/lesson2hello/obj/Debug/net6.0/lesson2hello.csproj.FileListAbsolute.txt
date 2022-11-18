@@ -1,0 +1,15 @@
+C:\Users\V. Bulatova\Desktop\Lesson1\lesson1hello\lesson2hello\bin\Debug\net6.0\lesson2hello.exe
+C:\Users\V. Bulatova\Desktop\Lesson1\lesson1hello\lesson2hello\bin\Debug\net6.0\lesson2hello.deps.json
+C:\Users\V. Bulatova\Desktop\Lesson1\lesson1hello\lesson2hello\bin\Debug\net6.0\lesson2hello.runtimeconfig.json
+C:\Users\V. Bulatova\Desktop\Lesson1\lesson1hello\lesson2hello\bin\Debug\net6.0\lesson2hello.dll
+C:\Users\V. Bulatova\Desktop\Lesson1\lesson1hello\lesson2hello\bin\Debug\net6.0\lesson2hello.pdb
+C:\Users\V. Bulatova\Desktop\Lesson1\lesson1hello\lesson2hello\obj\Debug\net6.0\lesson2hello.csproj.AssemblyReference.cache
+C:\Users\V. Bulatova\Desktop\Lesson1\lesson1hello\lesson2hello\obj\Debug\net6.0\lesson2hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\V. Bulatova\Desktop\Lesson1\lesson1hello\lesson2hello\obj\Debug\net6.0\lesson2hello.AssemblyInfoInputs.cache
+C:\Users\V. Bulatova\Desktop\Lesson1\lesson1hello\lesson2hello\obj\Debug\net6.0\lesson2hello.AssemblyInfo.cs
+C:\Users\V. Bulatova\Desktop\Lesson1\lesson1hello\lesson2hello\obj\Debug\net6.0\lesson2hello.csproj.CoreCompileInputs.cache
+C:\Users\V. Bulatova\Desktop\Lesson1\lesson1hello\lesson2hello\obj\Debug\net6.0\lesson2hello.dll
+C:\Users\V. Bulatova\Desktop\Lesson1\lesson1hello\lesson2hello\obj\Debug\net6.0\refint\lesson2hello.dll
+C:\Users\V. Bulatova\Desktop\Lesson1\lesson1hello\lesson2hello\obj\Debug\net6.0\lesson2hello.pdb
+C:\Users\V. Bulatova\Desktop\Lesson1\lesson1hello\lesson2hello\obj\Debug\net6.0\lesson2hello.genruntimeconfig.cache
+C:\Users\V. Bulatova\Desktop\Lesson1\lesson1hello\lesson2hello\obj\Debug\net6.0\ref\lesson2hello.dll
